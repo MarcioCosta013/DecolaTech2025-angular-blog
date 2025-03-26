@@ -21,5 +21,13 @@
     <div *ngIf=finished class="quizz_results">
       <h1>Seu Resultado é: </h1>
       <p>{{answerSelected}}</p>
+
+      <button 
+        class="btn-option"
+        (click)="resetquizz()"
+        >
+        Refazer Teste 
+      </button>
+    
     </div>
   </div>

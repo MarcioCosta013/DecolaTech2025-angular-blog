@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import quizz_questions from '../../../assets/data/quizz_questions.json';
-import { CommonModule } from '@angular/common';
+import { ActivatedRoute } from '@angular/router';
+
 
 @Component({
   selector: 'app-quizz',
-  imports: [ CommonModule],
   templateUrl: './quizz.component.html',
   styleUrls: ['./quizz.component.css']
 })
@@ -23,9 +23,9 @@ export class QuizzComponent implements OnInit {
 
   finished:boolean = false
 
-  constructor(){
-
-  }
+  constructor(
+      private route:ActivatedRoute
+    ) { }
 
   ngOnInit(): void {
     if(quizz_questions){
@@ -46,6 +46,14 @@ export class QuizzComponent implements OnInit {
   playerChose(value:string){
     this.answers.push(value)
     this.nextStep()
+  }
+
+  resetquizz(){
+    this.answers = []; // Zera as respostas
+    this.answerSelected = ""; // Reseta a resposta final
+    this.questionIndex = 0; // Volta para a primeira pergunta
+    this.finished = false; // Indica que o quiz ainda não acabou
+    this.questionSelected = this.questions[this.questionIndex]; // Seleciona a primeira pergunta novamente
   }
 
   async nextStep(){
