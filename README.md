@@ -1,86 +1,104 @@
-# Angular Blog
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 
-Este repositório contém um projeto de blog desenvolvido com Angular, baseado em um layout do Dribbble. O projeto foi gerado com o Angular CLI versão 14.1.2.
+<h1 align="center" id="portuguese">Bem-Vindo ao Angular-Blog 👋</h1>
 
-## Índice
 
-- [Servidor de Desenvolvimento](#servidor-de-desenvolvimento)
-- [Estruturação de Código](#estruturação-de-código)
-- [Build](#build)
-- [Executando Testes Unitários](#executando-testes-unitários)
-- [Executando Testes de Fim a Fim](#executando-testes-de-fim-a-fim)
-- [Mais Ajuda](#mais-ajuda)
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
   
+</p>
 
-**English version**: [Click here](#english-version)
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
 
-## Servidor de Desenvolvimento
+> Um Blog feito em Angular como um projeto do Bootcamp DecolaTech 2025 da Avanade + DIO.
+
+#### 🏠 [Homepage](https://github.com/MarcioCosta013/DecolaTech2025-angular-blog)
+
+#### 🔗 [Visualizar site](https://decola-tech2025-angular-blog.vercel.app)
+
+**English version**: [Click here](#english).
+
+## Install
+
+```sh
+git clone https://github.com/MarcioCosta013/DecolaTech2025-angular-blog.git
+
+```
+## 🖥  Servidor de Desenvolvimento
 
 Execute `ng serve` para iniciar um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. A aplicação recarregará automaticamente se você alterar qualquer um dos arquivos de origem.
 
-## Estruturação de Código
+## 😎 Autor
 
-Execute `ng generate component nome-do-componente` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ **Marcio Costa**
 
-## Build
+* Github: [MarcioCosta013](https://github.com/MarcioCosta013)
+* LinkedIn: [linkedin.com\/in\/marcio-jcosta\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/marcio-jcosta\/)
+* Instagran: [@marcio_costa013](https://www.instagram.com/marcio_costa013/)
 
-Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist/`.
-
-## Executando Testes Unitários
-
-Execute `ng test` para executar os testes unitários via [Karma](https://karma-runner.github.io).
-
-## Executando Testes de Fim a Fim
-
-Execute `ng e2e` para executar os testes de fim a fim via uma plataforma de sua escolha. Para usar este comando, você precisa primeiro adicionar um pacote que implemente recursos de teste de fim a fim.
-
-## Mais Ajuda
+## 🙏🏿 Mais Ajuda
 
 Para obter mais ajuda sobre o Angular CLI, use `ng help` ou confira a [documentação oficial do Angular CLI](https://angular.io/cli).
 
----
+## 🤝 Contribuição
 
-# English Version
+Contribuições, problemas e solicitações de recursos são bem-vindos!<br />Fique à vontade para conferir [issues page](https://github.com/MarcioCosta013/DecolaTech2025-angular-blog/issues). 
 
-This repository contains a blog project developed with Angular, based on a Dribbble layout. The project was generated with Angular CLI version 14.1.2.
+## 🤩 Mostre seu apoio
 
-## Table of Contents
+Dê uma ⭐️ se este projeto te ajudou!
 
-- [Development Server](#development-server)
-- [Code Scaffolding](#code-scaffolding)
-- [Build](#build)
-- [Running Unit Tests](#running-unit-tests)
-- [Running End-to-End Tests](#running-end-to-end-tests)
-- [Further Help](#further-help)
 
-**Versão em Português**: [Clique aqui](#angular-blog)
+</br></br></br></br></br></br></br>
 
-## Development Server
+
+
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+
+<h1 align="center" id="english">Welcome to Angular-Blog 👋</h1>
+
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
+
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
+
+> A blog made with Angular as a project from the DecolaTech 2025 Bootcamp by Avanade + DIO.
+
+#### 🏠 [Homepage](https://github.com/MarcioCosta013/DecolaTech2025-angular-blog)
+
+#### 🔗 [View site](https://decola-tech2025-angular-blog.vercel.app)
+
+**Versão em Portuguese**: [Click aqui](#portuguese).
+
+## Install
+
+```sh
+git clone https://github.com/MarcioCosta013/DecolaTech2025-angular-blog.git
+```
+
+## 🖥 Development Server
 
 Run `ng serve` to start a development server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code Scaffolding
+## 😎 Author
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+ **Marcio Costa**
 
-## Build
+* Github: [MarcioCosta013](https://github.com/MarcioCosta013)
+* LinkedIn: [linkedin.com\/in\/marcio-jcosta\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/marcio-jcosta\/)
+* Instagran: [@marcio_costa013](https://www.instagram.com/marcio_costa013/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 🙏🏿 More Help
 
-## Running Unit Tests
+For more help with the Angular CLI, use `ng help` or check the [official Angular CLI documentation](https://angular.io/cli).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🤝 Contribution
+Contributions, issues, and feature requests are welcome!<br />Feel free to check out the [issues page](https://github.com/MarcioCosta013/DecolaTech2025-angular-blog/issues).
 
-## Running End-to-End Tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further Help
-
-To get more help on the Angular CLI, use `ng help` or check out the [Angular CLI Official Documentation](https://angular.io/cli).
-
----
-
-## Referência do Fork
-
-Este repositório é um fork de [felipeAguiarCode/angular-blog](https://github.com/felipeAguiarCode/angular-blog).
+## 🤩 Show your support
+Give a ⭐️ if this project helped you!
