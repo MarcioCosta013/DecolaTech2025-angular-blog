@@ -20,7 +20,7 @@
 
 **English version**: [Click here](#english).
 
-## Install
+## Instalação
 
 ```sh
 git clone https://github.com/MarcioCosta013/DecolaTech2025-angular-blog.git
