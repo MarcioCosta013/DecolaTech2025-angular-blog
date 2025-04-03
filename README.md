@@ -24,7 +24,7 @@
 
 ```sh
 git clone https://github.com/MarcioCosta013/DecolaTech2025-angular-blog.git
-
+npm install
 ```
 ## 🖥  Servidor de Desenvolvimento
 
@@ -79,6 +79,7 @@ Dê uma ⭐️ se este projeto te ajudou!
 
 ```sh
 git clone https://github.com/MarcioCosta013/DecolaTech2025-angular-blog.git
+npm install
 ```
 
 ## 🖥 Development Server
